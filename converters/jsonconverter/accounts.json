@@ -1,0 +1,1 @@
+[{"id":1,"user_id":1,"name":"Master Card","number":1234,"amount":5000,"currency":"Somoni"},{"id":2,"user_id":1,"name":"Viza Card","number":9876,"amount":2000,"currency":"Somoni"},{"id":3,"user_id":2,"name":"Korti Milli","number":5058,"amount":10000,"currency":"Somoni"},{"id":4,"user_id":3,"name":"Korti Milli","number":5055,"amount":1000,"currency":"Somoni"}]
